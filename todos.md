@@ -1,0 +1,4 @@
+- case usb cutout
+- case jst cutout
+- pcb mouse cuts
+- pcb routing
