@@ -1,4 +1,4 @@
 - case usb cutout
-- case jst cutout
+- test print
 - pcb mouse cuts
 - pcb routing
