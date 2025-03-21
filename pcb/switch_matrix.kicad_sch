@@ -1611,18 +1611,18 @@
 		)
 		(uuid "fbe12e07-a38b-4cf5-8d29-55a526b479e5")
 	)
-	(label "ROW1"
-		(at 139.7 27.94 180)
+	(label "COL11"
+		(at 16.51 59.69 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "06e677a8-67fc-497f-932d-bf2d375a48d1")
+		(uuid "0f363dc9-8624-47bf-a97f-c6c75c1d8eeb")
 	)
 	(label "COL6r"
-		(at 165.1 35.56 180)
+		(at 158.75 38.1 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1631,15 +1631,25 @@
 		)
 		(uuid "1a8a4c81-96c4-4842-82e4-22efcd403ef4")
 	)
-	(label "ROW0"
-		(at 139.7 25.4 180)
+	(label "COL2"
+		(at 16.51 36.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "24dff15f-ef8a-4916-9d62-b212936de36e")
+		(uuid "2641c707-d1a3-4ede-8823-04cdc5abf21c")
+	)
+	(label "ROW3"
+		(at 133.35 30.48 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "27c8d380-0f17-40b0-b26d-fb42626c7991")
 	)
 	(label "ROW3"
 		(at 85.09 129.54 180)
@@ -1661,8 +1671,18 @@
 		)
 		(uuid "2a7cefb8-e206-4a6d-a055-e1e7e9def6d0")
 	)
+	(label "COL5"
+		(at 16.51 44.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2f87837e-1fc5-4109-8584-f45a43f64964")
+	)
 	(label "COL8"
-		(at 139.7 41.91 180)
+		(at 133.35 49.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1672,7 +1692,7 @@
 		(uuid "30b0e93c-03d4-491c-8170-da311ef46de3")
 	)
 	(label "COL7"
-		(at 139.7 39.37 180)
+		(at 133.35 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1701,8 +1721,8 @@
 		)
 		(uuid "44ece9c3-b5f0-4f57-82cb-19713f2d57c4")
 	)
-	(label "ROW2"
-		(at 165.1 30.48 180)
+	(label "ROW2r"
+		(at 158.75 33.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1712,7 +1732,7 @@
 		(uuid "4cb59766-34f9-4eac-9943-c2d3a0476cfa")
 	)
 	(label "COL6"
-		(at 139.7 35.56 180)
+		(at 133.35 27.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1722,7 +1742,7 @@
 		(uuid "4d3a46c1-6287-4064-94fd-3a1ed5e6cded")
 	)
 	(label "COL8r"
-		(at 165.1 41.91 180)
+		(at 158.75 44.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1731,18 +1751,38 @@
 		)
 		(uuid "4e727d98-8639-460d-9060-1de751bf5f14")
 	)
-	(label "COL2"
-		(at 16.51 29.21 180)
+	(label "ROW0"
+		(at 16.51 21.59 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "4ec37618-4dd9-43c2-ae94-a3b944517684")
+		(uuid "55fbf4b2-25d0-40b4-b882-a6f12094d18b")
+	)
+	(label "COL6"
+		(at 16.51 46.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "589de26a-2f31-475d-a5bc-e85eb15e6dac")
+	)
+	(label "COL10"
+		(at 16.51 57.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "58ea30e6-e48f-4282-bcf5-1bdc794e6076")
 	)
 	(label "COL10r"
-		(at 165.1 46.99 180)
+		(at 158.75 49.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1772,7 +1812,7 @@
 		(uuid "603e2104-02dc-4ee5-9458-6fb381e71c10")
 	)
 	(label "ROW1"
-		(at 16.51 21.59 180)
+		(at 16.51 24.13 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1802,7 +1842,7 @@
 		(uuid "67bc59e8-7ff1-4699-8d79-5017fd2074b3")
 	)
 	(label "COL11r"
-		(at 165.1 49.53 180)
+		(at 158.75 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1811,8 +1851,18 @@
 		)
 		(uuid "719b8df6-db6c-4189-9eb9-1a9a1c28b71c")
 	)
-	(label "ROW1"
-		(at 165.1 27.94 180)
+	(label "COL7"
+		(at 16.51 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "72de831f-9aa7-4cb1-b8cf-63b301b7b35d")
+	)
+	(label "ROW1r"
+		(at 158.75 30.48 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1832,7 +1882,7 @@
 		(uuid "73a2f207-752b-4e93-8ff6-d41caf4567c8")
 	)
 	(label "COL9r"
-		(at 165.1 44.45 180)
+		(at 158.75 46.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1841,15 +1891,25 @@
 		)
 		(uuid "7b9455c3-0dfd-4c61-82a6-77863c16575b")
 	)
-	(label "ROW3"
-		(at 139.7 33.02 180)
+	(label "COL1"
+		(at 16.51 34.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "89fc04f3-8f31-47ff-a362-e095e0359de4")
+		(uuid "7fb47ba1-a1ca-48ed-922f-5226858059a2")
+	)
+	(label "COL3"
+		(at 16.51 39.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "860567ef-11cd-4c47-bd74-c94e19790aca")
 	)
 	(label "ROW1"
 		(at 59.69 93.98 180)
@@ -1861,8 +1921,18 @@
 		)
 		(uuid "8a37c002-6e5a-48c4-b62e-e3426034cf5a")
 	)
+	(label "ROW3"
+		(at 16.51 29.21 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9752839f-c9f3-4c23-8ee6-1893db679e6f")
+	)
 	(label "COL9"
-		(at 139.7 44.45 180)
+		(at 133.35 46.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1872,7 +1942,7 @@
 		(uuid "9cd7f4be-404a-4475-a1ba-3c2c540dcf18")
 	)
 	(label "COL7r"
-		(at 165.1 39.37 180)
+		(at 158.75 41.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1881,8 +1951,48 @@
 		)
 		(uuid "9ce0d14f-a06b-419d-a712-bf24f3d3aee2")
 	)
+	(label "COL8"
+		(at 16.51 52.07 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "aad300d7-8967-46c2-b965-66eceaeebddf")
+	)
+	(label "COL4"
+		(at 16.51 41.91 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ad68e072-7617-4573-adb2-70bbcb58ce16")
+	)
+	(label "COL9"
+		(at 16.51 54.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "af034d31-659d-497b-a15a-5c57b0deaba2")
+	)
+	(label "ROW0"
+		(at 133.35 38.1 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b7fd31da-839f-4a6f-a1a7-d1201a14d725")
+	)
 	(label "ROW2"
-		(at 16.51 24.13 180)
+		(at 16.51 26.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1892,7 +2002,7 @@
 		(uuid "bb4e958d-ad54-4694-b5ed-62d81ad03281")
 	)
 	(label "COL11"
-		(at 139.7 49.53 180)
+		(at 133.35 41.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1921,8 +2031,8 @@
 		)
 		(uuid "d1df7855-d332-4a10-847d-2695ddf39693")
 	)
-	(label "ROW3"
-		(at 165.1 33.02 180)
+	(label "ROW3r"
+		(at 158.75 35.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1932,7 +2042,7 @@
 		(uuid "d2555e9b-2e67-41dc-9e1a-16c517ab4d15")
 	)
 	(label "ROW2"
-		(at 139.7 30.48 180)
+		(at 133.35 33.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1942,7 +2052,7 @@
 		(uuid "d66d3cb6-10cf-4fc0-a412-b33e071ff5b7")
 	)
 	(label "COL10"
-		(at 139.7 46.99 180)
+		(at 133.35 44.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1950,6 +2060,16 @@
 			(justify right bottom)
 		)
 		(uuid "dba37458-3b2a-4767-80a9-a4da619fd5a0")
+	)
+	(label "COL0"
+		(at 16.51 31.75 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "dc3bbc6f-10e1-4694-bcf8-be08dc5d32b5")
 	)
 	(label "ROW0"
 		(at 59.69 76.2 180)
@@ -1961,8 +2081,18 @@
 		)
 		(uuid "dd9c5191-96ae-485c-b684-f935b4d8918a")
 	)
-	(label "ROW0"
-		(at 165.1 25.4 180)
+	(label "ROW1"
+		(at 133.35 35.56 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "df3b3854-89c3-43a6-adc3-ac8bf48cd300")
+	)
+	(label "ROW0r"
+		(at 158.75 27.94 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1970,16 +2100,6 @@
 			(justify right bottom)
 		)
 		(uuid "e00cb966-f855-4369-a7c6-17c34481edc4")
-	)
-	(label "COL1"
-		(at 16.51 26.67 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e161a6c3-f7ca-422e-b9d5-868544566861")
 	)
 	(label "ROW1r"
 		(at 175.26 93.98 180)
@@ -3089,7 +3209,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x05")
-		(at 144.78 30.48 0)
+		(at 138.43 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3098,7 +3218,7 @@
 		(fields_autoplaced yes)
 		(uuid "10fca06d-c634-4d47-a814-f9e25b4a17f7")
 		(property "Reference" "J4"
-			(at 147.32 29.2099 0)
+			(at 140.97 31.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3107,7 +3227,7 @@
 			)
 		)
 		(property "Value" "Conn_01x05"
-			(at 147.32 31.7499 0)
+			(at 140.97 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3116,7 +3236,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal"
-			(at 144.78 30.48 0)
+			(at 138.43 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3125,7 +3245,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 30.48 0)
+			(at 138.43 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3134,7 +3254,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 144.78 30.48 0)
+			(at 138.43 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3680,7 +3800,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x05")
-		(at 170.18 30.48 0)
+		(at 163.83 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3689,7 +3809,7 @@
 		(fields_autoplaced yes)
 		(uuid "2179f798-b801-4f6c-9604-8587ec44d523")
 		(property "Reference" "J5"
-			(at 172.72 29.2099 0)
+			(at 166.37 31.7499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3698,7 +3818,7 @@
 			)
 		)
 		(property "Value" "Conn_01x05"
-			(at 172.72 31.7499 0)
+			(at 166.37 34.2899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3707,7 +3827,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal"
-			(at 170.18 30.48 0)
+			(at 163.83 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3716,7 +3836,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 30.48 0)
+			(at 163.83 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3725,7 +3845,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 170.18 30.48 0)
+			(at 163.83 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6893,7 +7013,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x05")
-		(at 170.18 44.45 0)
+		(at 163.83 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6902,7 +7022,7 @@
 		(fields_autoplaced yes)
 		(uuid "97df679b-2bb7-4d75-8cc9-d9ea2f9c4b54")
 		(property "Reference" "J7"
-			(at 172.72 43.1799 0)
+			(at 166.37 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6911,7 +7031,7 @@
 			)
 		)
 		(property "Value" "Conn_01x05"
-			(at 172.72 45.7199 0)
+			(at 166.37 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6920,7 +7040,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal"
-			(at 170.18 44.45 0)
+			(at 163.83 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6929,7 +7049,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 44.45 0)
+			(at 163.83 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6938,7 +7058,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 170.18 44.45 0)
+			(at 163.83 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9006,7 +9126,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x05")
-		(at 144.78 44.45 0)
+		(at 138.43 46.99 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9015,7 +9135,7 @@
 		(fields_autoplaced yes)
 		(uuid "e2df22bc-6226-4c48-9c9c-15946b3f5703")
 		(property "Reference" "J6"
-			(at 147.32 43.1799 0)
+			(at 140.97 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9024,7 +9144,7 @@
 			)
 		)
 		(property "Value" "Conn_01x05"
-			(at 147.32 45.7199 0)
+			(at 140.97 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9033,7 +9153,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_GH_SM05B-GHS-TB_1x05-1MP_P1.25mm_Horizontal"
-			(at 144.78 44.45 0)
+			(at 138.43 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9042,7 +9162,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 44.45 0)
+			(at 138.43 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9051,7 +9171,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 144.78 44.45 0)
+			(at 138.43 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
