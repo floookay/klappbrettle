@@ -9,7 +9,7 @@ a 40% ortho keyboard with a hinge
 
 I love using ortho keyboards but non-split ortho keyboards are getting uncomfortable for me fast so I thought about adding a hinge at the top.
 
-I kind of looks like a starter clapper so that's where it got its name and athletics theme.
+It kind of resembles a starter clapper so that's where it got its name and athletics theme.
 
 ## pcb
 
