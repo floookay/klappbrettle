@@ -1,5 +1,5 @@
 > [!CAUTION]
-> This is still a work in progress and not yet fully tested! I messed up my last order from Mouser and need to get the right components the next time I get to order.
+> This is still a work in progress and not yet fully tested! I messed up my last order from Mouser and need to get the missing components the next time I get to order.
 
 # klappbrettle
 
@@ -30,7 +30,7 @@ The pcb is a two panel design where both sides are connected via a 10 pin JST co
 
 The case is a 3mm acryl sandwich style case with a hinge to connect the halves and route the cable through. The hinge can be either 3d printed or can be 3mm acryl as well. I still need to test what works best, so far I only have a 3d printed prototype at hand.
 
-- [x] complete acrylic case design
+- [x] complete the acrylic case design
 - [ ] make the bottom plates look a bit nicer
 - [ ] prepare dxf files and variants for laser cutting
 
