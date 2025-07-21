@@ -13,7 +13,7 @@ It kind of resembles a starter clapper so that's where it got its name and athle
 
 ## pcb
 
-PCBWay kindly offered to sponsor the pcb for this project that's why I got my hands on the pcbs within almost a week after ordering.  
+PCBWay ([PCBWay.com](https://pcbway.com)) kindly offered to sponsor the pcb for this project that's why I got my hands on the pcbs within almost a week after ordering.  
 The order process is straight forward and you also get an instant quote before ordering. After placing the order a technician checked and corrected the drill holes of the mouse bits within a few hours and the pcb was sent to manufacturing.
 I'm impressed with the speed an quality of the pcb, see below:
 
