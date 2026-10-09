@@ -25,6 +25,7 @@ pcb/production/backups/*
 
 # Exported BOM files
 *.xml
+*.bgcode
 
 # FreeCAD backup files
 *.FCBak
