@@ -38,7 +38,7 @@ The case is a 3mm acryl sandwich style case with a hinge to connect the halves a
 
 This will be powered by QMK but the firmware isn't ready yet.
 
-- [ ] finish qmk firmware
+- [x] finish [qmk firmware](https://github.com/floookay/qmk_firmware/tree/klappbrettle)
 - [ ] add vial support
 
 ## acknowledgements
